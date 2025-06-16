@@ -1,0 +1,23 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "test": "cypress run --spec 'cypress/e2e/automation.cy.js'"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerAnatoliy/test_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerAnatoliy/test_task/issues"
+  },
+  "homepage": "https://github.com/SerAnatoliy/test_task#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.4.1"
+  }
+}
