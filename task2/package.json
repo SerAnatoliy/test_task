@@ -1,0 +1,14 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+ "scripts": {
+    "start": "node task2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0"
+  }
+}
